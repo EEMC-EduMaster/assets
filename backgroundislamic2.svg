@@ -702,7 +702,7 @@
 			<g>
 				<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-1.803396e-02" y1="58.693" x2="101.6018" y2="58.693">
 					<stop  offset="2.770450e-07" style="stop-color:#E3E7FE;stop-opacity:0"/>
-					<stop  offset="1" style="stop-color:#E3E7FE"/>
+					<stop  offset="1" style="stop-color:#bec2d9"/>
 				</linearGradient>
 				<rect x="0" y="0" class="st1" width="101.6" height="117.4"/>
 			</g>
